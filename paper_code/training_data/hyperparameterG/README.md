@@ -1,0 +1,1 @@
+The hyperparameterG pickle files are too large for GitHub upload, but can be recalculated if needed. We have simply used the results from the hyperparameter optimization throughout the later notebooks.
