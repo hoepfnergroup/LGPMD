@@ -1,0 +1,1 @@
+This tutorial walks through how to build LGPs for a provided data set. To adapt the code to your own data, you will need to construct training and test set matrices of the appropriate sizes and reperform hyperparameter optimization. Note that the method for hyperparameter optimization should be carefully selected as more advanced approaches may be required.  
