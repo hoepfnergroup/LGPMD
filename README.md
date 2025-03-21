@@ -22,7 +22,7 @@ This repository provides source code for building Local Gaussian Process surroga
 
 3. scipy
 
-## Install all required Python packages using pip:
+### Install all required Python packages using pip:
 
 pip install emcee torch scipy
 
