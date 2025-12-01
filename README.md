@@ -1,4 +1,4 @@
-# Bayesian Force Field Optimization with Local Gaussian Process Molecular Dynamics (LGPMD)
+# Bayesian Force Fields with Local Gaussian Processes as Molecular Dynamics Surrogate Models
 
 ## Overview
 
